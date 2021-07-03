@@ -1,16 +1,15 @@
-### Hi there, I'm Lazaros - aka lazlo👋
+### Hi there, I'm Lazaros 👋
 
 
-- 🔭 I’m currently working on Face Recognition.
-- 🌱 I’m currently learning everything 😄
+- 🔭 I’m currently learning about NLP and planning my MSc.
 - 💬 Ask me about tech related stuff
-- 📫 How to reach me: [Instagram](https://instagram.com/lazlozerv) , [Facebook](https://facebook.com/lazlo.zervos)
-- 🥅 2020-2021 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: [Instagram](https://instagram.com/lazlozerv), [Facebook](https://facebook.com/lazlo.zervos)
+- 🥅 Current Goals: Get more familiar with open source
 - ⚡ Fun fact: I love :chess_pawn: :basketball: :martial_arts_uniform:
 
 
-[![Linkedin: lazaroszervos](https://img.shields.io/badge/-lazlozerv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lazaroszervos/)](https://www.linkedin.com/in/lazlozerv/)
-[![GitHub lazlozerv](https://img.shields.io/github/followers/lazlozerv?label=follow&style=social)](https://github.com/lazlozerv)
+[![Linkedin: lazaroszervos](https://img.shields.io/badge/-lazaros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lazaroszervos/)](https://www.linkedin.com/in/lazaroszervos/)
+[![GitHub lzervos](https://img.shields.io/github/followers/lzervos?label=follow&style=social)](https://github.com/lzervos)
 
 
 ### Languages and Tools:
@@ -33,5 +32,5 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
-[![Data Mining](https://github-readme-stats.vercel.app/api/pin/?username=lazlozerv&repo=DataMining&layout=compact)](https://github.com/lazlozerv/DataMining/)
-[![Berkeley Pacman](https://github-readme-stats.vercel.app/api/pin/?username=lazlozerv&repo=Berkeley_AI-Pacman_Projects&layout=compact)](https://github.com/lazlozerv/Berkeley_AI-Pacman_Projects/)
+[![Data Mining](https://github-readme-stats.vercel.app/api/pin/?username=lzervos&repo=DataMining&layout=compact)](https://github.com/lzervos/DataMining/)
+[![Berkeley Pacman](https://github-readme-stats.vercel.app/api/pin/?username=lzervos&repo=Berkeley_AI-Pacman_Projects&layout=compact)](https://github.com/lzervos/Berkeley_AI-Pacman_Projects/)
